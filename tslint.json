@@ -1,0 +1,9 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": { "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }] },
+    "rulesDirectory": []
+}
